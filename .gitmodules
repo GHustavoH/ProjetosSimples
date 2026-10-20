@@ -1,3 +1,6 @@
 [submodule "Algoritmo-RandomSearch"]
 	path = Algoritmo-RandomSearch
 	url = https://github.com/GHustavoH/Algoritmo-RandomSearch.git
+[submodule "VerificadorDeSenha"]
+	path = VerificadorDeSenha
+	url = https://github.com/GHustavoH/VerificadorDeSenha.git
