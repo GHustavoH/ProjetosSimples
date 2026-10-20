@@ -1,0 +1,3 @@
+[submodule "Algoritmo-RandomSearch"]
+	path = Algoritmo-RandomSearch
+	url = https://github.com/GHustavoH/Algoritmo-RandomSearch.git
